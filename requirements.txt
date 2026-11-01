@@ -1,0 +1,11 @@
+jupyter
+ipython
+langgraph>=0.3
+langchain-core
+langchain-groq
+langchain-tavily
+python-dotenv
+streamlit
+requests 
+python-dotenv
+ 
